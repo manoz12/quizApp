@@ -1,6 +1,6 @@
-# quizzler
+# quizzApp
 
-A new Flutter application.
+A simple quizz app.
 
 ## Getting Started
 
